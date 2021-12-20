@@ -1,6 +1,6 @@
 <img alt="Picture" src="assets/pic1.png" align="right" width=22% alt="Image"/><br>
-<img alt="Welcome" src="assets/Welcome.png" align="left" width=70% alt="Image"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=%23FF8997&size=22&center=true&vCenter=true&width=350&lines=I+am+Pooja+Agarwal;An+Android+App+Developer;A+Digital+Artist" width=70%>
+<img alt="Welcome" src="assets/Welcome.png" align="left" width=72% alt="Image"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=%23FF8997&size=22&center=true&vCenter=true&width=350&lines=I+am+Pooja+Agarwal;An+Android+App+Developer;A+Digital+Artist" width=72%>
 
 <!-- <div align="center">
 free gifts fr u, patreon, buy a coffee
@@ -19,7 +19,7 @@ free gifts fr u, patreon, buy a coffee
 </p>
 
 ---
-<h1>GitHub stats :chart_increasing:</h1>
+<h1>GitHub stats :chart_with_upwards_trend:</h1>
 <p align="center">
 <table style="border-collapse: collapse; width: 100%;">
 <tr>
@@ -50,7 +50,7 @@ free gifts fr u, patreon, buy a coffee
 
 ---
 
-<h1>Software and Tools :computer::hammer_and_wrench:</h1>
+<h1>Software and Tools :computer:</h1>
 <div align="center">
 <img src="https://custom-icon-badges.herokuapp.com/badge/Visual Studio Code-00b5f9?style=flat&logo=VisualStudioCode&logoColor=white">
 <img src="https://custom-icon-badges.herokuapp.com/badge/Android Studio-78C257?style=flat&logo=AndroidStudio&logoColor=white">
@@ -66,7 +66,7 @@ free gifts fr u, patreon, buy a coffee
 
 ---
 
-<h1>Connect with me :handshake::people_holding_hands:</h1>
+<h1>Connect with me :handshake:</h1>
 <div align="center">
 <a href="https://www.linkedin.com/in/IAkiraX" alt="LinkedIn Connect" title="LinkedIn"><img src="https://custom-icon-badges.herokuapp.com/badge/iakirax-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/I-AkiraX" alt="GitHub Connect" title="GitHub"><img src="https://custom-icon-badges.herokuapp.com/badge/i_akirax-333?style=for-the-badge&logo=github&logoColor=white"></a>
