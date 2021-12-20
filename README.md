@@ -77,6 +77,3 @@ free gifts fr u, patreon, buy a coffee
 <a href="mailto:akira2001official@gmail.com" alt="Gmail Connect" title="Gmail"><img src="https://custom-icon-badges.herokuapp.com/badge/akira2001official-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 <hr>
-
-git remote add origin https://github.com/I-AkiraX/I-AkiraX.git
-git push -u origin master
