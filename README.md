@@ -1,4 +1,4 @@
-<img alt="Picture" src="assets/pic1.png" align="right" width=22% alt="Image"/><br>
+<img alt="Picture" src="assets/animatedGif.gif" align="right" width=22% alt="Image"/><br>
 <img alt="Welcome" src="assets/Welcome.png" align="left" width=78% alt="Image"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=%23FF8997&size=22&center=true&vCenter=true&width=350&lines=I+am+Pooja+Agarwal;An+Android+App+Developer;A+Digital+Artist" width=70%>
 
