@@ -12,8 +12,8 @@ free gifts fr u, patreon, buy a coffee
 <h1>About me :woman:</h1>
 <p>I am Pooja Agarwal, a 3rd year BTech student at Kalinga Institute of Industrial Technology. I am an enthusiast android app developer and a self-taught digital artist. I also do traditional art, make AR filters for Facebook and Instagram, design websites, and make comics. I love to learn, explore, and create new things everyday.
 
-- 🔭 I’m currently working on my personal portfolio 
-- 🌱 I’m currently learning full-stack website development 
+- 🔭 I’m currently working on improving my skillset 
+- 🌱 I’m currently learning to make AR filters  
 - 💬 Talk to me about anything 
 - 😄 Pronouns: she/her 
 </p>
