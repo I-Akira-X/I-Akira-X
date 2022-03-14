@@ -23,7 +23,7 @@ free gifts fr u, patreon, buy a coffee
 <p align="center">
 <table style="border-collapse: collapse; width: 100%;">
 <tr>
-<td  colspan="2" align="center"><img alt="Pooja Agarwal's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=I-AkiraX&theme=dracula" title="GitHub trophies" width=100% align="center"/></td>
+<td  colspan="2" align="center"><img alt="Pooja Agarwal's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=I-AkiraX&theme=dracula&title=Repositories,Commits,Stars,Followers&margin-w=5" title="GitHub trophies" width=100% align="center"/></td>
 </tr>
 <tr>
 <td align="center"><img alt="Pooja Agarwal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=I-AkiraX&show_icons=true&count_private=true&hide=prs&theme=dracula" title="GitHub rank" width=100% align="left"/></td>
