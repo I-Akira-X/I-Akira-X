@@ -23,12 +23,16 @@ free gifts fr u, patreon, buy a coffee
 <p align="center">
 <table style="border-collapse: collapse; width: 100%;">
 <tr>
-<td  colspan="3" align="center"><img alt="Pooja Agarwal's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=I-AkiraX&theme=dracula&title=Repositories,Commits,Stars,Followers&margin-w=5" title="GitHub trophies" width=100% align="center"/></td>
+<td colspan="2" align="center"><img alt="Pooja Agarwal's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=I-AkiraX&theme=dracula&title=Repositories,Commits,Stars,Followers&margin-w=5" title="GitHub trophies" width=100% align="center"/></td>
 </tr>
 <tr>
-<td align="center"><img alt="Pooja Agarwal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=I-AkiraX&show_icons=true&count_private=true&hide=prs&theme=dracula" title="GitHub rank" width=100% align="left"/></td>
+<td colspan="2" align="center"><img alt="Pooja Agarwal's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-akirax&theme=monokai&langs_count=10&layout=compact" title="GitHub Languages" width=70% align="left"/>
+</td>
+</tr>
+<tr>
 <td align="center"><img alt="Pooja Agarwal's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=I-AkiraX&theme=dracula" title="GitHub streak" width=100% align="right"/></td>
-<td align="center"><img alt="Rudrashis Dutta's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-akirax&theme=monokai&langs_count=10&layout=compact" title="GitHub Languages" width=100% align="right"/></td>
+<td align="center"><img alt="Pooja Agarwal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=I-AkiraX&show_icons=true&count_private=true&hide=prs&theme=dracula" title="GitHub rank" width=100% align="left"/>
+</td>
 </tr>
 </table>
 </p>
