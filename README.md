@@ -26,12 +26,12 @@ free gifts fr u, patreon, buy a coffee
 <td colspan="2" align="center"><img alt="Pooja Agarwal's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=I-AkiraX&theme=dracula&title=Repositories,Commits,Stars,Followers&margin-w=5" title="GitHub trophies" width=100% align="center"/></td>
 </tr>
 <tr>
-<td colspan="2" align="center"><img alt="Pooja Agarwal's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-akirax&theme=monokai&langs_count=10&layout=compact" title="GitHub Languages" width=70% align="left"/>
+<td align="center"><img alt="Pooja Agarwal's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-akirax&theme=monokai&langs_count=10&layout=compact" title="GitHub Languages" width=100% align="left"/>
 </td>
+<td align="center"><img alt="Pooja Agarwal's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=I-AkiraX&theme=dracula" title="GitHub streak" width=100% align="right"/></td>
 </tr>
 <tr>
-<td align="center"><img alt="Pooja Agarwal's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=I-AkiraX&theme=dracula" title="GitHub streak" width=100% align="right"/></td>
-<td align="center"><img alt="Pooja Agarwal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=I-AkiraX&show_icons=true&count_private=true&hide=prs&theme=dracula" title="GitHub rank" width=100% align="left"/>
+<td colspan="2" align="center"><img alt="Pooja Agarwal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=I-AkiraX&show_icons=true&count_private=true&hide=prs&theme=dracula" title="GitHub rank" width=100% align="left"/>
 </td>
 </tr>
 </table>
@@ -39,35 +39,34 @@ free gifts fr u, patreon, buy a coffee
 
 ---
 
-<h1>Languages and Skills :woman_technologist:</h1>
+<h1>Skillset :woman_technologist:</h1>
 <div align="center">
-<img src="https://custom-icon-badges.herokuapp.com/badge/C%2B%2B-0983df?style=flat&logo=c%2B%2B&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/C-00599C?style=flat&logo=c&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/Java-df2107?style=flat&logo=java&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/Python-ffd418?style=flat&logo=python&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/SQL-a7e8b8?style=flat&logo=sql&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/HTML5-df6a07?style=flat&logo=html5&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/CSS-0fb8d7?style=flat&logo=css3&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/Android App-3ddc84?style=flat&logo=android&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/AR Filters-00f295?style=flat&logo=SparkAR&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/Digital Art-ff1ca6?style=flat&logo=krita&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/Illustration-030b36?style=flat&logo=inkscape&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Android Application Development-FF2259?style=for-the-badge">
+<img src="https://custom-icon-badges.herokuapp.com/badge/AR Filters-FF3A74?style=for-the-badge">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Digital Art-FF447D?style=for-the-badge">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Traditional Art-FF497D?style=for-the-badge">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Animation-FF5487?style=for-the-badge">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Illustration-FF6093?style=for-the-badge">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Content Creation-FF6CA0?style=for-the-badge">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Social Media Management-FF80B2?style=for-the-badge">
 </div>
 
 ---
 
-<h1>Software and Tools :computer:</h1>
+<h1>Softwares and Tools :computer:</h1>
 <div align="center">
-<img src="https://custom-icon-badges.herokuapp.com/badge/Visual Studio Code-00b5f9?style=flat&logo=VisualStudioCode&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/Android Studio-78C257?style=flat&logo=AndroidStudio&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/IntelliJIDEA-002acf?style=flat&logo=IntelliJIdea&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/Jupiter-f98500?style=flat&logo=Jupyter&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/Spark AR Studio-00f295?style=flat&logo=SparkAR&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/Adobe XD-e000f9?style=flat&logo=Adobexd&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/Krita-24ffff?style=flat&logo=krita&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/Inkscape-030b36?style=flat&logo=inkscape&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/GIMP-8c8c8c?style=flat&logo=GIMP&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/badge/OBS Studio-a7a5a2?style=flat&logo=OBSstudio&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Visual Studio Code-FF3F23?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Android Studio-FF4C29?style=for-the-badge&logo=AndroidStudio&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/IntelliJIDEA-FF5B33?style=for-the-badge&logo=IntelliJIdea&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Spyder-FF683C?style=for-the-badge&logo=SpyderIDE&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Jupiter-FF7345?style=for-the-badge&logo=Jupyter&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Spark AR Studio-FF7E4E?style=for-the-badge&logo=SparkAR&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Adobe XD-FF8857?style=for-the-badge&logo=Adobexd&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Krita-FF9361?style=for-the-badge&logo=krita&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Inkscape-FF9C6A?style=for-the-badge&logo=inkscape&logoColor=black">
+<img src="https://custom-icon-badges.herokuapp.com/badge/GIMP-FFA373?style=for-the-badge&logo=GIMP&logoColor=black">
+<img src="https://custom-icon-badges.herokuapp.com/badge/DaVinci Resolve-FFAD7F?style=for-the-badge&logo=davinciresolve&logoColor=black">
+<img src="https://custom-icon-badges.herokuapp.com/badge/OBS Studio-FFB78C?style=for-the-badge&logo=OBSstudio&logoColor=black">
 </div>
 
 ---
