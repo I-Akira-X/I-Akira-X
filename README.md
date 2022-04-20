@@ -1,6 +1,6 @@
 <img alt="Picture" src="assets/animatedGif.gif" align="right" width=22% alt="Image"/><br>
 <img alt="Welcome" src="assets/Welcome.png" align="left" width=72% alt="Image"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=%23FF8997&size=22&center=true&vCenter=true&width=350&lines=I+am+Pooja+Agarwal;An+Android+App+Developer;A+Digital+Artist" width=70%>
+<a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=%23FF8997&size=22&center=true&vCenter=true&width=350&lines=I+am+Pooja+Agarwal;A+Digital+Artist;A+Content+Creator;An+AR+Enthusiast" width=70%></a>
 
 <!-- <div align="center">
 free gifts fr u, patreon, buy a coffee
@@ -10,9 +10,11 @@ free gifts fr u, patreon, buy a coffee
 <hr>
 
 <h1>About me :woman:</h1>
-<p>I am Pooja Agarwal, a 3rd year BTech student at Kalinga Institute of Industrial Technology. I am an enthusiast android app developer and a self-taught digital artist. I also do traditional art, make AR filters for Facebook and Instagram, design websites, and make comics. I love to learn, explore, and create new things everyday.
+<p>I am Pooja Agarwal (a.k.a. Akira), a 3rd year BTech student at Kalinga Institute of Industrial Technology. I am a content creator, an enthusiast AR developer, and a self-taught digital artist. I love creating and exploring new things. I also enjoy traditional art, animating, dancing, and singing.<br>
+Additionally, being from a computer science background, I also have a great interest in designing websites and making android applications. I have knowledge about major programming languages like C++, Java, C, Python, HTML and CSS.<br>
+I am genuinely delighted to gather information by reading articles or watching videos that focuses on less discussed but very important topics.
 
-- 🔭 I’m currently working on improving my skillset 
+- 🔭 I’m currently working on my portfolio website 
 - 🌱 I’m currently learning to make AR filters  
 - 💬 Talk to me about anything 
 - 😄 Pronouns: she/her 
