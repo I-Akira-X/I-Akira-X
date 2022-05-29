@@ -1,6 +1,6 @@
 <img alt="Picture" src="assets/githubGIF.gif" align="right" width=22% alt="Image"/><br>
-<img alt="Welcome" src="assets/Welcome.png" align="left" width=72% alt="Image"/>
-<a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=%23FF8997&size=22&center=true&vCenter=true&width=350&lines=I+am+Pooja+Agarwal;A+Digital+Artist;A+Content+Creator;An+AR+Enthusiast" width=70%></a>
+<img alt="Welcome" src="assets/Welcome.png" align="left" width=60% alt="Image"/>
+<a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=%23FF8997&size=22&center=true&vCenter=true&width=350&lines=I+am+Pooja+Agarwal;A+Digital+Artist;A+Content+Creator;An+AR+Enthusiast" align="left" width=60%></a>
 
 <!-- <div align="center">
 free gifts fr u, patreon, buy a coffee
