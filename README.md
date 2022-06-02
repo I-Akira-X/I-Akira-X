@@ -1,7 +1,7 @@
 <pre>
-<img alt="GIF" src="assets/githubGIF.gif" align="right" width=27% />
-<img alt="Welcome" src="assets/Welcome.png" align="left" width=70% />
-<a href="https://readme-typing-svg.herokuapp.com/demo/"><img alt="Pooja Agarwal" src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=%23FF8997&size=22&center=true&vCenter=true&width=350&lines=I+am+Pooja+Agarwal;A+Digital+Artist;A+Content+Creator;An+AR+Enthusiast" align="left" width=70%></a>
+<img alt="Welcome" src="assets/Welcome.png" width=70% />
+<img alt="GIF" src="assets/githubGIF.gif" width=30% align="right" />
+<a href="https://readme-typing-svg.herokuapp.com/demo/"><img alt="Pooja Agarwal" src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=%23FF8997&size=22&center=true&vCenter=true&width=350&lines=I+am+Pooja+Agarwal;A+Digital+Artist;A+Content+Creator;An+AR+Enthusiast" width=70%></a>
 </pre>
 
 <!-- <div align="center">
