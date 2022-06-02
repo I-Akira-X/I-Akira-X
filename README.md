@@ -1,13 +1,16 @@
-
+<pre>
+<img alt="Picture" src="assets/githubGIF.gif" align="right" width=30% alt="Image"/>
 <img alt="Welcome" src="assets/Welcome.png" align="left" width=70% alt="Image"/>
 <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=%23FF8997&size=22&center=true&vCenter=true&width=350&lines=I+am+Pooja+Agarwal;A+Digital+Artist;A+Content+Creator;An+AR+Enthusiast" align="left" width=70%></a>
-<img alt="Picture" src="assets/githubGIF.gif" align="right" width="280" alt="Image"/>
+</pre>
+
 <!-- <div align="center">
 free gifts fr u, patreon, buy a coffee
 ![GitHub User's stars](https://custom-icon-badges.herokuapp.com/github/stars/i-akirax?style=for-the-badge&logo=star)
 ![GitHub followers](https://custom-icon-badges.herokuapp.com/github/followers/I-AkiraX?label=I-AkiraX&style=for-the-badge&logo=github)
 </div> -->
-<br><hr>
+
+<hr>
 
 <h1>About me :woman:</h1>
 <p>I am Pooja Agarwal (a.k.a. Akira), a 3rd year BTech student at Kalinga Institute of Industrial Technology. I am a content creator, an enthusiast AR developer, and a self-taught digital artist. I love creating and exploring new things. I also enjoy traditional art, animating, dancing, and singing.<br>
